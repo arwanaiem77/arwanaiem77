@@ -3,11 +3,11 @@
 <h3 align="center">Cyber Security Student👩‍💻🖥️ </h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tojan-naiem&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arwanaiem77&label=Profile%20views&color=0e75b6&style=flat" alt="tojan-naiem" /> </p>
 
 # 💫 About Me:
-- 🖥 I'm a Junior Computer Science student at PTUK
-- 💼 I’m currently learning Front-end    
+- 🖥 I'm a 2'nd year Cyber Security student at BZU
+- 💼 I’m currently learning Cryptography & Web    
 
 
 # 💻 Tech Stack:
